@@ -1895,3 +1895,22 @@ a, button, .btn, .faq-item, .filter-btn, .product-card, .nav-toggle {
     transform: none !important;
   }
 }
+
+
+/* ===========================================
+   ECHTES JUPIXX-LOGO
+   =========================================== */
+.nav-logo-img {
+  height: 38px;
+  width: auto;
+  display: block;
+  transition: opacity var(--transition-fast);
+}
+.nav-logo:hover .nav-logo-img {
+  opacity: 0.82;
+}
+@media (max-width: 560px) {
+  .nav-logo-img {
+    height: 32px;
+  }
+}
