@@ -1900,8 +1900,11 @@ a, button, .btn, .faq-item, .filter-btn, .product-card, .nav-toggle {
 /* ===========================================
    ECHTES JUPIXX-LOGO
    =========================================== */
+.nav-logo {
+  flex-shrink: 0;
+}
 .nav-logo-img {
-  height: 38px;
+  height: 36px;
   width: auto;
   display: block;
   transition: opacity var(--transition-fast);
@@ -1909,8 +1912,16 @@ a, button, .btn, .faq-item, .filter-btn, .product-card, .nav-toggle {
 .nav-logo:hover .nav-logo-img {
   opacity: 0.82;
 }
+.nav-cta {
+  white-space: nowrap;
+}
+@media (max-width: 900px) {
+  .nav-logo-img {
+    height: 34px;
+  }
+}
 @media (max-width: 560px) {
   .nav-logo-img {
-    height: 32px;
+    height: 30px;
   }
 }
