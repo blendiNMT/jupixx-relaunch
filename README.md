@@ -1,6 +1,6 @@
 # Jupixx Relaunch 2025
 
-> Modernisierter Website-Relaunch für [Jupixx](https://www.jupixx.at/) – die digitale Schneiderei aus Österreich für personalisierte Laserprodukte aus Holz.
+> Modernisierter Website-Relaunch für [Jupixx](https://www.jupixx.at/), die digitale Schneiderei aus Österreich für personalisierte Laserprodukte aus Holz.
 
 ## 🎨 Über das Projekt
 
@@ -30,12 +30,12 @@ Dieser Relaunch modernisiert die bestehende Jupixx-Website mit einem warmen, han
 
 ## 📄 Seiten
 
-1. **index.html** – Startseite mit Hero, Process, Bestseller, Story, Testimonials, CTA
-2. **shop.html** – Produktkatalog mit Filter und 12 Produktkarten
-3. **personalisierung.html** – 5-Schritte-Prozess + Tipps
-4. **ueber-uns.html** – Markengeschichte, Werte, Zahlen
-5. **faq.html** – Interaktives Accordion mit 12 Fragen
-6. **kontakt.html** – Kontaktformular + Kanäle
+1. **index.html**, Startseite mit Hero, Process, Bestseller, Story, Testimonials, CTA
+2. **shop.html**, Produktkatalog mit Filter und 12 Produktkarten
+3. **personalisierung.html**, 5-Schritte-Prozess + Tipps
+4. **ueber-uns.html**, Markengeschichte, Werte, Zahlen
+5. **faq.html**, Interaktives Accordion mit 12 Fragen
+6. **kontakt.html**, Kontaktformular + Kanäle
 
 ## ✨ Features
 
@@ -47,7 +47,7 @@ Dieser Relaunch modernisiert die bestehende Jupixx-Website mit einem warmen, han
 - FAQ-Accordion
 - Mobile Navigation
 - Animierte Count-Up-Stats
-- Keine externen JS-Frameworks – pure HTML/CSS/JS
+- Keine externen JS-Frameworks, pure HTML/CSS/JS
 - SVG-Illustrationen (keine externen Bilder nötig)
 
 ## 🚀 Tech-Stack
